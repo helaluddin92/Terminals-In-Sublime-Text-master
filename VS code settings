@@ -1,0 +1,27 @@
+{
+  "editor.suggestSelection": "first",
+  "python.pythonPath": "C:\\Users\\engrh\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+  "editor.fontSize": 24,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontWeight": "500",
+  "debug.console.fontSize": 24,
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "python.linting.pylintEnabled": true,
+  "php.validate.run": "onType",
+  "workbench.colorTheme": "Predawn",
+  "terminal.integrated.fontSize": 24,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "code-runner.executorMap": {
+    "python": "$pythonPath -u $fullFileName"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "window.zoomLevel": 0,
+  "editor.wordWrap": "on",
+  "python.jediEnabled": false,
+  "files.autoSaveDelay": 100,
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "afterDelay"
+}
